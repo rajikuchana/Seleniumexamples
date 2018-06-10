@@ -5,5 +5,5 @@
     <classes>
       <class name="com.selenium.restapi.RestApi"/>
     </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+  </test>
+</suite>
