@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/rest-assured-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/org.json.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/json-path-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/gson-2.8.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/groovy-all-3.0.0-alpha-1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/httpclient-win-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/httpclient-cache-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/fluent-hc-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/httpmime-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/jna-4.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/jna-platform-4.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium_GitHub/Seleniumexamples/Selenium_Projects/MySelenium/Lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
